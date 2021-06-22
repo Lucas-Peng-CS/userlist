@@ -1,0 +1,39 @@
+.fa:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.detailed-information:hover {
+  opacity: 0.6;
+  cursor: pointer;
+}
+
+.currentPage {
+  background-color: #148aa4;
+  color: #ffffff;
+}
+
+.allIcon {
+  color: rgb(151, 203, 255);
+}
+
+.maleIcon {
+  color: rgb(40, 148, 255);
+}
+
+.femaleIcon {
+  color: rgb(255, 151, 151);
+}
+
+.th {
+  color: rgb(255, 69, 0);
+}
+
+.bars {
+  color: rgb(255, 69, 0);
+}
+
+.submit {
+  background-color: #ff5151;
+  border-color: #ff5151;
+}
